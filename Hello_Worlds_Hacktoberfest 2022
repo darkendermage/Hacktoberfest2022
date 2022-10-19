@@ -46,3 +46,8 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+//Kotlin
+fun main() {
+    println("Olá mundo!")
+}
