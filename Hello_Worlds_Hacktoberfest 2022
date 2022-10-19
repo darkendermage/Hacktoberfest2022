@@ -17,3 +17,6 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
+
+//Ruby
+puts "Hello World!"
