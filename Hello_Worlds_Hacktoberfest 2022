@@ -1,3 +1,12 @@
 //Diferentes formas de falar Hello world pelas linguagens de programação
 
 //C#
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
